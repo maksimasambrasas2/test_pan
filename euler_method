@@ -1,0 +1,3 @@
+echo "# <euler_method>" >> README.md
+git add README.md
+git commit -m "Initial Commit"
